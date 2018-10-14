@@ -1,0 +1,27 @@
+h1{
+    color: darkblue;
+    font-style: italic;
+    position: relative;
+    text-align: center;
+}
+#name{
+    color: navy;
+    position: relative;
+    align-content: center;
+}
+.register{
+    text-align: left;
+    height: 250px;
+    width: 300px;
+    margin: 20px;
+    font-style: italic;
+    position: relative;
+    background-color: cornsilk;
+    color: darkblue;
+    padding: 20px;
+
+}
+h2{
+    text-align: center;
+    padding: 20px;
+}
